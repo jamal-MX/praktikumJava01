@@ -14,7 +14,7 @@ public class DataTypes{
 	System.out.println("Nama belakang : " + namaBelakang);
 	System.out.println("Usia : "+ usia);
 	System.out.println("Target Kuliah : " +targetTahunKuliah + " tahun ");
-	System.out.println("Ipk : "+ ipk);
+	System.out.println("IPK : " +ipk);
 	System.out.println("Nilai PBO : "+ nilaiAbjad);
 	System.err.println("Tampan :" +tampan);
 	}
