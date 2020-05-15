@@ -1,3 +1,5 @@
+package Modul01;
+
 import javax.swing.JOptionPane;
 import java.util.Scanner;
 
